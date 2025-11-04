@@ -28,7 +28,12 @@ A real-time distance monitoring system built with ESP32, featuring live updates 
 
 ## Demo Video
 
-[Watch Working Video](WORKING-VIDEO.mp4)
+<video width="600" controls>
+  <source src="images/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ---
 
